@@ -13,4 +13,4 @@ git clone git@github.com:vishnusomank/policy-validator.git
 ```
 bash policyvalidator.sh
 ```
->Note: For the validator to work you should have admin privilege to the cluster which you want to performing the validation to. It also requires a kubectl binary in the system path
+>Note: For the validator to work you should have admin privilege to the cluster which you want to perform the validation to. It also requires a kubectl binary in the system path
